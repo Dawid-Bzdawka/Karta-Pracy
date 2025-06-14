@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo-gabi-mebel3.png" alt="Logo" width="200"/>
+</p>
+
 # Karta Pracy
 
 Aplikacja webowa do lokalnego zapisywania wyników pracy w zakładzie produkcyjnym. Działa offline – dane są przechowywane w przeglądarce za pomocą localStorage.
