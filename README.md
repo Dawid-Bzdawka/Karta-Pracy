@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo-gabi-mebel3.png" alt="Logo" width="200"/>
+  <img src="logo-gabi.png" alt="Logo" width="200"/>
 </p>
 
 # Karta Pracy
